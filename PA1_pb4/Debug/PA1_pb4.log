@@ -1,0 +1,39 @@
+﻿  PA1_pb4.cpp
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(27,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(28,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(76,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(88,73): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(97,99): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(104,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(135,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(145,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(238,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(159,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(162,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(164,1): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(166,1): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(217,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(220,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(222,1): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(223,1): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(251,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(254,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(257,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(259,1): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(260,1): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(262,1): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\Lee\source\repos\PA1_pb4\PA1_pb4\PA1_pb4.cpp(130,18): warning C4101: 'output': unreferenced local variable
